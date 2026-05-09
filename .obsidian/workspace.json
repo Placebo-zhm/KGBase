@@ -1,0 +1,483 @@
+{
+  "main": {
+    "id": "f90028d4923ed6e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb3418e97d4b7cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858c851c9cf8f62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需求响应于源网荷储调研.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需求响应于源网荷储调研"
+            }
+          },
+          {
+            "id": "69560f6219bf3a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "记录/2026-03-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-19"
+            }
+          },
+          {
+            "id": "1cccca211033b58e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "a109702b2fa4cc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需求响应于源网荷储调研.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "需求响应于源网荷储调研"
+            }
+          },
+          {
+            "id": "f66ff1988ec97860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图表LLM可视化/LightVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LightVA"
+            }
+          },
+          {
+            "id": "518ff04bdd9e8ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名/计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计划"
+            }
+          },
+          {
+            "id": "85b0d3313e4ff147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "视频字幕.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "视频字幕"
+            }
+          },
+          {
+            "id": "20e20c8851521fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文"
+            }
+          },
+          {
+            "id": "df063ea37d02318d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图表LLM可视化/LightVA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LightVA"
+            }
+          },
+          {
+            "id": "c6774a57856d13fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/相关工作/电量、负荷、充电站/预测电动汽车充电站日前充电负荷曲线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "预测电动汽车充电站日前充电负荷曲线"
+            }
+          },
+          {
+            "id": "e5c8146927b27433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/写作逻辑/IN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN"
+            }
+          },
+          {
+            "id": "3f48d95caaf8caaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/写作逻辑/IN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN"
+            }
+          },
+          {
+            "id": "08a414af4f70f8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文"
+            }
+          },
+          {
+            "id": "9767dc8c8e53679a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文"
+            }
+          },
+          {
+            "id": "bb2a596b88126e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文"
+            }
+          },
+          {
+            "id": "12016fe318b791fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文"
+            }
+          },
+          {
+            "id": "28467633ecce725b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/第二次交流.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二次交流"
+            }
+          },
+          {
+            "id": "90c5cdede8f8fa36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "整理/相关工作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "相关工作"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c74ff49fcc9714b",
+    "type": "split",
+    "children": [
+      {
+        "id": "912484c44987fb70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5559da9bd225a774",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "39d8a3ebe0701dc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e8a368ac7cba9953",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "eaafede55d951564",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b36a489dae55860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5842cf9262cefe14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "051ac2501a906205",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 2.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "未命名 2 的出链列表"
+            }
+          },
+          {
+            "id": "6634b5ac83f73c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "424222b6d9834d58",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "76f9b3307a79d4af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "9863e7e782fcf1e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 541.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9863e7e782fcf1e8",
+  "lastOpenFiles": [
+    "整理/论文主体.md",
+    "整理/论文.md",
+    "整理/写作逻辑/IN.md",
+    "整理/第二次交流.md",
+    "整理/分析大纲.md",
+    "整理/写作逻辑/AB写作逻辑.md",
+    "整理/写作逻辑/写作逻辑.md",
+    "未命名 1.md",
+    "整理/写作逻辑",
+    "未命名.md",
+    "整理/相关工作/电量、负荷、充电站/预测电动汽车充电站日前充电负荷曲线.md",
+    "整理/相关工作/电量预测可视化/层级预测.md",
+    "backend/项目配置.md",
+    "backend/未命名 3.md",
+    "图表LLM可视化/LightVA.md",
+    "整理/相关工作/电量、负荷、充电站",
+    "图表LLM可视化/ChartInsighter.md",
+    "电网/会议记录.md",
+    "杂项/视频字幕.md",
+    "杂项/评价.md",
+    "欢迎.md",
+    "杂项",
+    "整理/未命名 3.md",
+    "整理/Time-LLM.md",
+    "整理/Forte.md",
+    "整理/相关工作/多变量可视化/相关工作.md",
+    "整理/相关工作/多变量可视化",
+    "整理/相关工作/电量预测可视化",
+    "整理/相关工作",
+    "学习笔记/MatPlotlib.md",
+    "计划/计划.md",
+    "未命名/未命名 3.md",
+    "backend",
+    "Pasted image 20260428162622.png",
+    "Pasted image 20260428160753.png",
+    "Pasted image 20260428160528.png",
+    "电网",
+    "Pasted image 20260414194416.png",
+    "整理",
+    "Pasted image 20260407202705.png",
+    "计划",
+    "Pasted image 20260407203531.png",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
